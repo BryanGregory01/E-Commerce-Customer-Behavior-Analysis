@@ -3,6 +3,7 @@
 Tools:
 - PostgreSQL
 - SQL
+- Power BI
 
 What I did:
 - Built relational database with 6 tables
